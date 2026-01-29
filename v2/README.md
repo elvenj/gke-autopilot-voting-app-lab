@@ -1,3 +1,40 @@
+# GKE Autopilot Voting App — Hands-on Lab
+
+## 📌 Overview
+This repository documents the completion of a hands-on lab focused on deploying
+a containerized voting application on **Google Kubernetes Engine (GKE) Autopilot**
+using **Skaffold** and **Cloud Build**.
+
+The project demonstrates practical skills in cloud-native application deployment,
+CI/CD automation, and managed Kubernetes operations.
+
+---
+
+## 🎯 Lab Objectives
+- Deploy a multi-component application on GKE Autopilot
+- Use Skaffold to orchestrate build and deployment workflows
+- Leverage Google Cloud Build for container image creation
+- Interact with a fully managed Kubernetes environment
+
+---
+
+## 🧰 Technologies & Services
+- Google Kubernetes Engine (GKE) Autopilot
+- Skaffold
+- Google Cloud Build
+- Kubernetes (YAML manifests)
+- Containerized microservices
+
+---
+
+## 🚀 Deployment Instructions
+The section below contains the original lab instructions used during execution.
+They are preserved for technical accuracy and reproducibility.
+
+---
+
+
+
 # Voting App
 
 Simple voting app that consists of three services for highlighting running
